@@ -1,0 +1,1 @@
+<?php $barikode_ignore_var = array(); ?>

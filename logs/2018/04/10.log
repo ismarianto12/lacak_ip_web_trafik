@@ -1,0 +1,4 @@
+1523294326@@@5.196.87.126@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1523294328@@@5.196.87.126@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/error.php
+1523294330@@@54.36.148.11@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1523345001@@@36.72.165.121@@@POST@@@SQL injection@@@3@@@30@@@username@@@\' or 1=1 limit 1 -- -+ @@@https://simponie.tangerangselatankota.go.id:443/index.php

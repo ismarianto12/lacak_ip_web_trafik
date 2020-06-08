@@ -1,0 +1,1 @@
+<?php $barikode_whitelist_ip = array("127.0.0.1",); ?>

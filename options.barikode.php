@@ -1,0 +1,4 @@
+<?php
+$en_barikode_options=<<<'EN'
+a:19:{s:14:"banned_message";s:166:"<p>Anda tidak dapat mengakses website ini. Untuk keperluan keamanan, ip anda kami catat.<br />Jika menurut anda ini adalah kesalahan sistem silahkan hubungi kami.</p>";s:12:"livelog_time";i:0;s:9:"minreport";s:1:"3";s:9:"minbanned";s:1:"2";s:4:"salt";s:32:"90d5eca1e0c2e377104b10d80b9e43b8";s:5:"email";s:19:"onrazamid@gmail.com";s:11:"time_banned";s:1:"1";s:5:"route";s:5:"admin";s:8:"autoload";s:32:"04389bb634048b3c993ef7af390e8ddd";s:3:"rss";s:1:"1";s:7:"livelog";s:0:"";s:11:"last_update";s:10:"1478069734";s:9:"smtp_host";s:0:"";s:9:"smtp_port";s:0:"";s:13:"smtp_username";s:0:"";s:13:"smtp_password";s:44:"r3bE5XuSmyqyTI8DRlCo9X+kfOWYoxnLlyjQygRVlj8=";s:16:"upload_check_ext";s:1:"1";s:16:"upload_check_elf";s:1:"0";s:19:"upload_check_script";s:1:"0";}
+EN;
